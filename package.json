@@ -1,0 +1,8 @@
+{
+“name”: “Ozone”,
+“version”: “1.0.0”,
+“description”: “Will scrape data off of other discord servers to keep up to date with whatever I want.”,
+“main”: “index.js”,
+“author”: “Ozone Group”,
+“dependencies”: {}
+}
