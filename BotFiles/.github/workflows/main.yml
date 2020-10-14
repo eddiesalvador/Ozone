@@ -1,0 +1,6 @@
+# Author: Eddie Salvador
+# Purpose: This is the main workflow for calling the token from secrets.
+
+string: 'secret.BOTTOKEN'
+
+run: echo "$Is this working?"
