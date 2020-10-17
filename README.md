@@ -1,5 +1,5 @@
 # Ozone
-Discord Bot made by
+Discord Bot made by  
 Eddie Salvador (eddie13249@gmail.com)  
 Weiyi Chen (cwy.sophiechen@gmail.com)  
 Taniya Shaffer (shaffertaniya@gmail.com)  
