@@ -11,4 +11,10 @@ client.on('message', msg => {
     }
  });
 
+client.on('message', msg => {
+    if (msg.content === 'hey bot') {
+        msg.reply('you suck! ◡ ヽ(`Д´)ﾉ ┻━┻');
+    }
+});
+
 client.login('token');
