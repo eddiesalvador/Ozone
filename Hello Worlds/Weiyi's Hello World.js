@@ -1,2 +1,2 @@
 // Weiyi's world
-console.log("Eddie's New World!");
+console.log("No this is still Weiyi's World!");
